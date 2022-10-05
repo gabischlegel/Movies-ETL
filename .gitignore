@@ -1,0 +1,8 @@
+#Ignore CSV files
+credits.csv
+keywords.csv
+links.csv
+ratings.csv
+
+#Ignore Config Py 
+config.py
